@@ -9,5 +9,5 @@
 ## Start with something useful
 
 | Project | Description |
-|---|---|---|
+|---|---|
 | [AF Toolkit](https://github.com/advokat-frida/af-toolkit) | Four privacy tools in one browser-only shell. **SafeSeed** makes test data that is fake by design; **SafeList** checks a send list against opt-outs; **Redactorium** anonymizes, hashes, or redacts a file and hashes the result; **Privacy Wizards Council** gives cited determinations on the questions that eat your afternoon.
